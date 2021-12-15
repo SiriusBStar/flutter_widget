@@ -11,3 +11,5 @@
 ## <img src="https://img.shields.io/badge/-02569B?style=flat&logo=Flutter&logoColor=white"/> Widget List
 
 * [Container](https://github.com/SiriusBStar/flutter_widget/blob/main/src/container.dart)
+
+* [Column](https://github.com/SiriusBStar/flutter_widget/blob/main/src/column.dart)

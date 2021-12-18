@@ -17,3 +17,5 @@
 * [Row](https://github.com/SiriusBStar/flutter_widget/blob/main/src/row.dart)
 
 * [SizedBox](https://github.com/SiriusBStar/flutter_widget/blob/main/src/sized_box.dart)
+
+* [Text](https://github.com/SiriusBStar/flutter_widget/blob/main/src/text.dart)

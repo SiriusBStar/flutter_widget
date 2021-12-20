@@ -10,9 +10,11 @@
 
 ## <img src="https://img.shields.io/badge/-02569B?style=flat&logo=Flutter&logoColor=white"/> Widget List
 
+* [Column](https://github.com/SiriusBStar/flutter_widget/blob/main/src/column.dart)
+
 * [Container](https://github.com/SiriusBStar/flutter_widget/blob/main/src/container.dart)
 
-* [Column](https://github.com/SiriusBStar/flutter_widget/blob/main/src/column.dart)
+* [Icon](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon.dart)
 
 * [Row](https://github.com/SiriusBStar/flutter_widget/blob/main/src/row.dart)
 

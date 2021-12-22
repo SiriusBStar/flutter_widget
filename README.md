@@ -14,6 +14,8 @@
 
 * [Container](https://github.com/SiriusBStar/flutter_widget/blob/main/src/container.dart)
 
+* [ElevatedButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/elevated_button.dart)
+
 * [Icon](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon.dart)
 
 * [Row](https://github.com/SiriusBStar/flutter_widget/blob/main/src/row.dart)

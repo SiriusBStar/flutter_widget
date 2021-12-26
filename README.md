@@ -24,6 +24,6 @@
 
 * [SizedBox](https://github.com/SiriusBStar/flutter_widget/blob/main/src/sized_box.dart)
 
-* [TextButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/text_button.dart)
-
 * [Text](https://github.com/SiriusBStar/flutter_widget/blob/main/src/text.dart)
+
+* [TextButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/text_button.dart)

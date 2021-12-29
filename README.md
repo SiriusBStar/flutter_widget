@@ -18,6 +18,8 @@
 
 * [Icon](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon.dart)
 
+* [IconButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon_button.dart)
+
 * [OutlinedButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/outlined_button.dart)
 
 * [Row](https://github.com/SiriusBStar/flutter_widget/blob/main/src/row.dart)

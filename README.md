@@ -16,6 +16,8 @@
 
 * [ElevatedButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/elevated_button.dart)
 
+* [FloatingActionButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/floating_action_button.dart)
+
 * [Icon](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon.dart)
 
 * [IconButton](https://github.com/SiriusBStar/flutter_widget/blob/main/src/icon_button.dart)
